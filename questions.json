@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "type": "mcq",
+    "question": "What is the output of print(5 + 2 * 3)?",
+    "options": ["21", "11", "13", "17"],
+    "answer": "11"
+  },
+  {
+    "id": 2,
+    "type": "mcq",
+    "question": "Which keyword is used to define a function in Python?",
+    "options": ["function", "define", "def", "fun"],
+    "answer": "def"
+  },
+  {
+    "id": 3,
+    "type": "mcq",
+    "question": "Which data type is immutable in Python?",
+    "options": ["List", "Set", "Dictionary", "Tuple"],
+    "answer": "Tuple"
+  },
+  {
+    "id": 4,
+    "type": "mcq",
+    "question": "What does len() function do?",
+    "options": [
+      "Returns length of an object",
+      "Returns type of an object",
+      "Returns value of an object",
+      "Returns memory size"
+    ],
+    "answer": "Returns length of an object"
+  },
+  {
+    "id": 5,
+    "type": "mcq",
+    "question": "Which operator is used for exponentiation in Python?",
+    "options": ["^", "**", "//", "%"],
+    "answer": "**"
+  },
+  {
+    "id": 6,
+    "type": "mcq",
+    "question": "What is the output of print(type([]))?",
+    "options": [
+      "<class 'list'>", "<class 'tuple'>", "<class 'dict'>", "<class 'set'>"
+    ],
+    "answer": "<class 'list'>"
+  },
+  {
+    "id": 7,
+    "type": "mcq",
+    "question": "Which loop is used when the number of iterations is known?",
+    "options": ["while", "do-while", "for", "loop"],
+    "answer": "for"
+  },
+  {
+    "id": 8,
+    "type": "mcq",
+    "question": "What does break statement do?",
+    "options": [
+      "Stops the program",
+      "Exits the current loop",
+      "Skips the current iteration",
+      "Restarts the loop"
+    ],
+    "answer": "Exits the current loop"
+  },
+  {
+    "id": 9,
+    "type": "mcq",
+    "question": "Which function is used to take input from the user?",
+    "options": ["get()", "scan()", "read()", "input()"],
+    "answer": "input()"
+  },
+  {
+    "id": 10,
+    "type": "mcq",
+    "question": "Which symbol is used for comments in Python?",
+    "options": ["//", "/* */", "#", "<!-- -->"],
+    "answer": "#"
+  },
+  {
+    "id": 11,
+    "type": "coding",
+    "question": "Write a Python program to check whether a given number is a palindrome."
+  },
+  {
+    "id": 12,
+    "type": "coding",
+    "question": "Write a Python program to find the factorial of a number using a function."
+  }
+]
